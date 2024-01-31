@@ -1,0 +1,58 @@
+[
+  {
+    "UserId": 1,
+    "Username": "alice123",
+    "Email": "alice@example.com",
+    "SocialName": "Alice",
+    "SocialDescription": "I love exploring the world!",
+    "Password": "password123",
+    "IsLocked": false,
+    "Assets": [
+      {
+        "AssetId": 2,
+        "TokenId": "token456",
+        "AssetName": "Digital Collectible",
+        "Value": 99999999999999.00,
+        "UserId": 1,
+        "User": null
+      },
+      {
+        "AssetId": 1,
+        "TokenId": "token123",
+        "AssetName": "Artwork",
+        "Value": 9999999999.00,
+        "UserId": 1,
+        "User": null
+      }
+    ]
+  },
+  {
+    "UserId": 2,
+    "Username": "bob456",
+    "Email": "bob@example.com",
+    "SocialName": "Bob",
+    "SocialDescription": "I enjoy coding and gaming!",
+    "Password": "bobpassword",
+    "IsLocked": false,
+    "Assets": [
+      {
+        "AssetId": 3,
+        "TokenId": "token789",
+        "AssetName": "Game Item",
+        "Value": 75.00,
+        "UserId": 2,
+        "User": null
+      }
+    ]
+  },
+  {
+    "UserId": 3,
+    "Username": "randomuser1",
+    "Email": "ru1@random.com.random.pk",
+    "SocialName": "",
+    "SocialDescription": "",
+    "Password": null,
+    "IsLocked": false,
+    "Assets": []
+  }
+]
